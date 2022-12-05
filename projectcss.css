@@ -1,0 +1,164 @@
+* {
+    background-color: #f6f5f1;
+}
+* {
+    color: black;
+}
+h1 {
+    font-family: arial;
+    letter-spacing: 5px;
+}
+#north{
+    background-color:  #03045e;
+    color: white;
+    margin-right: 60px;
+    font-size: large;
+    font-weight: 300;
+}
+#north:hover {
+    background-color: red;
+}
+#south {
+    background-color:  #03045e;
+    color: white;
+    margin-right: 60px;
+    font-size: large;
+    font-weight: 300;
+}
+#south:hover {
+    background-color: #ffb703;
+}
+#East:hover {
+    background-color: #f72585;
+}
+#East {
+    background-color:  #03045e;
+    color: white;
+    margin-right: 60px;
+    font-size: large;
+    font-weight: 300;
+}
+#west {
+    background-color:  #03045e;
+    color: white;
+    margin-right: 60px;
+    font-size: large;
+    font-weight: 300;
+}
+#west:hover {
+    background-color: #472d30;
+}
+#label1 {
+    border-style: solid ;
+    margin-right: 60px;
+    font-size: large;
+    font-weight: 300;
+}
+#form1 {
+    font-weight: 900;
+    font-size: x-large;
+}
+#button1 {
+    background-color: #03045e;
+    color: white;
+    font-size: x-large;
+    font-weight: 300;
+}
+#button1:hover {
+    background-color: green;
+}
+.first {
+    width: 350px;
+    height: 120px;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: grey;
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+    margin-left: 1000px;
+}
+#places {
+    background-color: aqua;
+    font-weight: 250;
+    font-size: medium;
+    color: black;
+}
+#search {
+    background-color: #472d30;
+    color: aliceblue;
+    font-size: large;
+    font-weight: 300;
+}
+#search:hover {
+    background-color: green;
+}
+.second {
+    margin-left: 200px;
+    width : 400px;
+    height: 335px;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    border-color: grey;
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+}
+#button2 {
+    margin: 5px;
+    background-color: #6f1d1b;
+    color: white;
+    font-size: x-large;
+    font-weight: 300;
+}
+#button2:hover {
+    background-color: green;
+}
+.margin1  {
+    margin: 5px;   
+}
+.margin2 {
+    margin: 5px;
+}
+#username {
+    background-color:  #03045e;
+    font-weight: 250;
+    font-size: medium;
+    color: white;
+}
+#Destination {
+    background-color:  #03045e;
+    font-weight: 250;
+    font-size: medium;
+    color: white;
+}
+#email {
+    background-color:  #03045e;
+    font-weight: 250;
+    font-size: medium;
+    color: white;
+}
+#number {
+    background-color: #03045e;
+    font-weight: 250;
+    font-size: medium;
+    color: white;
+}
+.border3 {
+    margin-top: 15px;
+    width: 1500px;
+    height: 1750px;
+    border-style: solid;
+    border-color: white;
+    background-color: aliceblue;
+    border-width: 5px;
+}
+.trip {
+    display: inline-block;
+
+}
+.header {
+    background-image: url(https://img.freepik.com/free-photo/travel-concept-with-landmarks_23-2149153256.jpg?w=1060&t=st=1670257299~exp=1670257899~hmac=cac93b1f75d54f6cd8a4af265a731a3e20a63660ace1ca2d8bb0debc95e51a53);
+}
